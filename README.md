@@ -1,76 +1,29 @@
-# 👋 Hello, I'm Shiina mashiro!
+# 🌸 漫天樱花飞舞之时，我们是否能再次相遇？
 
-🧑‍💻 **C / C++ / Python Developer**  
-💡 **Creator at Heart**  
-🐾 **Lover of All Things Cute**
+>「樱花飘落得很慢，但总有一天会落到你肩上。」
+>「世界上所有的事都是有意义的」
+> ——《樱花庄的宠物女孩》
 
----
+## 🌸 关于我｜樱花树下的约定
 
-## 💬 About Me
+能来这里的朋友，你好呀，我是Shiina mashiro。
 
-Hi there! I'm a developer who loves diving deep into **low-level systems programming**, solving tricky problems with **C/C++**, and bringing ideas to life with **Python**.
-
-Whether it's writing efficient algorithms, tinkering with hardware, or just building fun little tools for myself — **I live to create**.
-
-- 🔧 I love writing fast, clean, expressive code  
-- 🐣 I enjoy building things that are not only functional, but fun and *adorable*  
-- 🌈 My dream is to create something of my own — meaningful, playful, and uniquely mine
+🎋 热爱编程。
+🌸 喜欢可爱的东西，可爱的世界，可爱的关系。
+🌠 想给自己的世界染上不一样的颜色。
 
 ---
 
-## 🛠️ Tech Stack
 
-- **Languages**:  
-  🧩 `C`, `C++` (STL / low-level), `Python` (scripts, automation, data)
+私はよく空に舞い散る桜を眺めている。
+それらはまるで、この世界と私との間に交わされた、ある種の約束のようだ。
+言葉にしなくてもいいこともある。
+伝えきれない想いは、ただ永遠に散りゆく花びらに託せばいい。
 
-- **Specialties**:  
-  ⚙️ Systems programming, algorithms, performance optimization, desktop tools
+彼女のように、純粋で美しく、
+私はただ静かに見守りたいだけだ。
 
-- **Tools**:  
-  🖥️ GCC / Clang / GDB, CMake, Valgrind, Git, VSCode, Vim, Makefile
-
-- **Python Use Cases**:  
-  🔁 Automation, scripting, data visualization, quick prototyping
-
-- **Exploring**:  
-  ✨ Game dev with SDL / Raylib, AI scripting in Python
 
 ---
 
-## 🧸 Side of Me
-
-I love code, but I also love **designing playful things**. I believe that even a terminal app can have **character**.  
-One of my goals is to make technical tools more *approachable and fun*.
-
----
-
-## 🛠️ Projects I'm Proud Of
-
-- 🧮 **Custom C++ math library** — because `std::` isn't always enough  
-- 🎮 **Mini Game Engine in C** — a WIP project just for the joy of making something low-level  
-- 🧹 **Python auto-organizer script** — small script that saves me hours every week  
-- 💖 And more cute ideas in the oven...
-
----
-
-## 💭 Philosophy
-
-> “Code with purpose. Create with heart.”
-
-To me, coding isn't just work — it's a way to **bring imagination to life**.  
-Whether it’s a command-line tool or a tiny pixel game, I want my code to reflect **who I am**.
-
----
-
-## 📫 Connect With Me
-
-- 🌐 Website/Portfolio: [your-link.com](https://your-link.com)
-- 💌 Email: your@email.com
-- 🧵 Blog (if any): [yourblog.dev](https://yourblog.dev)
-
----
-
-## ☕ Fun Fact
-
-I think pointers are cute.  
-Especially when they *point to something meaningful*. 🐾
+🌸 谢谢你驻足在我的世界，愿漫天樱花能飘进你的心里。 🌸
